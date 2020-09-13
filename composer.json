@@ -1,5 +1,5 @@
 {
-    "name": "longman/telegram-bot",
+    "name": "xtodx/telegram-bot",
     "type": "library",
     "description": "PHP Telegram bot",
     "keywords": ["telegram", "bot", "api"],
@@ -29,7 +29,7 @@
         "ext-json": "*",
         "ext-mbstring": "*",
         "psr/log": "^1.1",
-        "guzzlehttp/guzzle": "^6.3"
+        "guzzlehttp/guzzle": "^7."
     },
     "require-dev": {
         "phpunit/phpunit": "^8.4",
